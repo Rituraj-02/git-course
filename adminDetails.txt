@@ -1,4 +1,4 @@
 this is a admin file 
 change the role
 add the data
-closing the connection 
+closing the mySQL connection after work
